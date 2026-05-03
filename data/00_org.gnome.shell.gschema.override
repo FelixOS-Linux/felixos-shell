@@ -1,0 +1,10 @@
+[org.gnome.mutter:GNOME]
+attach-modal-dialogs=true
+edge-tiling=true
+dynamic-workspaces=true
+workspaces-only-on-primary=true
+focus-change-on-pointer-rest=true
+[org.gnome.desktop.background]
+picture-uri='file:///home/anto/Documenti/FelixOS/felixos-shell-main/install/share/backgrounds/felixos/felix-os-wallpaper1.png'
+picture-uri-dark='file:///home/anto/Documenti/FelixOS/felixos-shell-main/install/share/backgrounds/felixos/felix-os-wallpaper1.png'
+picture-options='zoom'
